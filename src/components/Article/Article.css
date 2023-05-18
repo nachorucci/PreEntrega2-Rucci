@@ -1,0 +1,8 @@
+.artWine{
+    display: flex;
+    align-items: center;
+}
+
+.imgArticle{
+    border-radius: 20px;
+}
